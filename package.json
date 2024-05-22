@@ -1,12 +1,12 @@
 {
-  "name": "roguevoltage-localization-app",
+  "name": "roguevoltage-localization-editor",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "author": "imhvost <imhvost@gmail.com> (https://imhvost.top/)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imhvost/roguevoltage-localization-app"
+    "url": "git+https://github.com/imhvost/roguevoltage-localization-editor"
   },
   "scripts": {
     "dev": "vite",
