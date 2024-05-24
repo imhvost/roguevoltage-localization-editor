@@ -1,4 +1,4 @@
-export const files = [
+export const fileNames = [
   'keywords.xml',
   'localization.xml',
   'localization_advice.xml',

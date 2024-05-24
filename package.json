@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.9.0",
+    "date-fns": "^3.6.0",
     "jszip": "^3.10.1",
     "vue": "^3.4.21"
   },
