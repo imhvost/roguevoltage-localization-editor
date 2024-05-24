@@ -4,7 +4,7 @@ This is a simple web application to facilitate the translation of **Rogue Voltag
 
 ## App
 
-http://roguevoltage-localization-editor.imhvost.top/
+https://roguevoltage-localization-editor.imhvost.top/
 
 ---
 
