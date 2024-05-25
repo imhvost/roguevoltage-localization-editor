@@ -247,6 +247,7 @@ const getDataFromFiles = () => {
           /\$(.*?)\$/g,
           ' <span class="notranslate">$$$1$$</span> ',
         );
+        str = str.replace(/&amp;/g, '&');
       }
       if (!str) {
         return;
